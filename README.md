@@ -40,9 +40,12 @@ This project we include charts,graphs,tables,cards, gauge, question and answers,
 Our raw data set was extracted from Kaggle.com and authored by KDS Toys.
 
 ### Tools Used
+
 The tools include;
 * Microsoft Excel
 * Microsoft PowerBI
+
+### Data Visualization
 
 
   
