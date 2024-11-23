@@ -1,7 +1,7 @@
 # GROUP-1-DATA-ANALYSIS-PROJECT
 This where we present our first group assignment detailed on Agricultural Dataset.
 ## Table of Content
- [PROJECT TITLE]-(Project Title)
+[Project Title]-(project-title)
 ### Project Team Mate
 ### Introduction
 ### Objectives
