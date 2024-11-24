@@ -42,8 +42,8 @@ Our raw data set was extracted from Kaggle.com and authored by KDS Toys.
 ### Tools Used
 
 The tools include;
-* Microsoft Excel
-* Microsoft PowerBI
+* Microsoft Excel[Download]{http://www.Microsoft.com}
+* Microsoft PowerBI[Download]{http://www.Microsoft.com}
 
 ### Data Visualization
 
