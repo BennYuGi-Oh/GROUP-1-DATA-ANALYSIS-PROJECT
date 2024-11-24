@@ -50,11 +50,20 @@ The tools include;
 The visual were created through PowerBI report which was grouped by the help of screenshots.
 
 
+
+
+
 ![Screenshot (62)](https://github.com/user-attachments/assets/fc0e3043-a1ed-40a9-9e50-c5531cf3158e)
 
 
 
 ![Screenshot (69)](https://github.com/user-attachments/assets/295be442-72ee-40cc-8a11-0403090a6312)
+
+
+
+
+[Visual1.pdf](https://github.com/user-attachments/files/17894403/Visual1.pdf)
+
 
  ### Conclusion
  This project has the total number of Twenty suppliers, sum of 227 million(kg) units of products shipped. The highest unit sold was the beef while carrot is the lowest bunits sold. The highest supplier of agricultural product is Dairyland Coop with 6279906 while the lowest supplier is Nature's Best Produce with 5124041 quantity.
