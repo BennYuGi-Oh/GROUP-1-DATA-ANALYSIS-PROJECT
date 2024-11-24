@@ -52,13 +52,18 @@ The visual were created through PowerBI report which was grouped by the help of 
 
 
 
+[Group1 skill harvest assigment.docx](https://github.com/user-attachments/files/17894422/Group1.skill.harvest.assigment.docx)
+
+
+
+[GROUP 1 PROJECT ON AGRICULTURAL.docx](https://github.com/user-attachments/files/17894424/GROUP.1.PROJECT.ON.AGRICULTURAL.docx)
+
 
 ![Screenshot (62)](https://github.com/user-attachments/assets/fc0e3043-a1ed-40a9-9e50-c5531cf3158e)
 
 
 
 ![Screenshot (69)](https://github.com/user-attachments/assets/295be442-72ee-40cc-8a11-0403090a6312)
-
 
 
 
